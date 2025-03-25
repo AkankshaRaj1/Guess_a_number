@@ -1,0 +1,32 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+span{
+    display: block;
+}
+body{
+    margin: 100px auto;
+    width: 100%;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border: solid black 4px;
+    border-radius: 50%;
+    display: inline-block;
+}
+#grey{
+    background: gray;
+}
+#white{
+    background: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
